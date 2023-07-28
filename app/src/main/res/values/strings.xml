@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">QuizeApp</string>
+
+    <string name="questionNumber">1/8 questions</string>string>
+    <string name="score">Score 0/8</string>
+    <string name="question1">What technology is used to make telephone calls over the internet possible</string>
+    <string name="option_A">Bluetooth</string>
+    <string name="option_B">Ethernet</string>
+    <string name="option_C">NFC</string>
+    <string name="option_D">VoIp</string>
+    <string name="answer_1">VoIp</string>
+
+    <string name="question2">Which computer language is the best windely used</string>
+    <string name="option_2A">c</string>
+    <string name="option_2B">c++</string>
+    <string name="option_2C">java</string>
+    <string name="option_2D">php</string>
+    <string name="answer_2">java</string>
+
+    <string name="question3">Which of the following is an step important the paperless concept?</string>
+    <string name="option_3A">Doxing</string>
+    <string name="option_3B">Debugging</string>
+    <string name="option_3C">Downloading</string>
+    <string name="option_3D">Digitizing</string>
+    <string name="answer_3">Digitizing</string>
+
+    <string name="question4">Anmdroid is-</string>
+    <string name="option_4A">an operating system</string>
+    <string name="option_4B">A web browser</string>
+    <string name="option_4C">A web server</string>
+    <string name="option_4D">None of the above</string>
+    <string name="answer_4">an operating system</string>
+
+    <string name="question5">Under which of the following Android is licensed?</string>
+    <string name="option_5A">OSS</string>
+    <string name="option_5B">Sourceforge</string>
+    <string name="option_5C">Apache/MIT</string>
+    <string name="option_5D">None of the above</string>
+    <string name="answer_5">Apache/MIT</string>
+
+    <string name="question6">Which of the following convert java byte code into Dalvik byte code?</string>
+    <string name="option_6A">Dalvik converter</string>
+    <string name="option_6B">Dex compiler</string>
+    <string name="option_6C">Mobile interpretive compoiler(MIC)</string>
+    <string name="option_6D">None of the above</string>
+    <string name="answer_6">Dex compiler</string>
+
+    <string name="question7">Which of the following is the first mobile phone released that ran the Android OS?</string>
+    <string name="option_7A">HTC Hero</string>
+    <string name="option_7B">Google Phone</string>
+    <string name="option_7C">T-Mobile G1</string>
+    <string name="option_7D">None of the above</string>
+    <string name="answer_7">T-Mobile G1</string>
+
+    <string name="question8">APK stands for-</string>
+    <string name="option_8A">Android Phone Kit</string>
+    <string name="option_8B">Android Page Kit</string>
+    <string name="option_8C">Android Package Kit</string>
+    <string name="option_8D">None of the above</string>
+    <string name="answer_8">Android Package Kit</string>
+
+
+</resources>
